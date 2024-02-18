@@ -5,7 +5,7 @@ Welcome to the JavaScript QR Code Generator project! This web application is des
 
 demo https://qr-code-generator-nov.netlify.app/
 
-## ✨ Features
+## ✨ Features 
 
 - **Dynamic QR Code Generation:** Generate QR codes for URLs, text, or contact information on-the-fly.
 - **Customization Options:** Customize QR code size, color, and error correction level.
